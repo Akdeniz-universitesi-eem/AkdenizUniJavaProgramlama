@@ -1,5 +1,5 @@
 # AkdenizUniJavaProgramlama
-Akdeniz Üniversitesi, Elektrik Elektronik Mühendisliği bölümü için verilen seçmeli İleri Programlama dersinin ödevlerinin aktarıldığı repo. Göktan Gümüşlü'ye aittir. Son üç hafta boyunca ödevler bu repoya atılmış ve Teams platformu üzerinden tanımlanan ödeve linki, attachment olarak teslim edilmiştir. İlgili Java dosyası bulunamadığı takdirde izlenecek adım şekildeki gibidir:
+Akdeniz Üniversitesi, Elektrik Elektronik Mühendisliği bölümü için verilen seçmeli İleri Programlama dersinin ödevlerinin aktarıldığı repo. Göktan Gümüşlü'ye aittir. Öğrenci numarası:20210855060. Son üç hafta boyunca ödevler bu repoya atılmış ve Teams platformu üzerinden tanımlanan ödeve linki, attachment olarak teslim edilmiştir. İlgili Java dosyası bulunamadığı takdirde izlenecek adım şekildeki gibidir:
 
 IleriProgramlamaOdev2 --> out --> production --> IleriProgramlamaOdev2 --> Main.class 
 
