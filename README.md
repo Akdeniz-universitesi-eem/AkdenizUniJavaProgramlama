@@ -8,4 +8,5 @@ IleriProgramlamaOdev3 --> out --> production --> IleriProgramlamaOdev3 --> Main.
 IleriProgramlamaOdev4 --> out --> production --> IleriProgramlamaOdev4 --> Main.class
 
 IleriProgramlamaOdev5'in 3. soru harici cevapları için --> out --> production --> IleriProgramlamaOdev5 --> Main.class
+
 Soru 3 için --> src --> production --> IleriProgramlamaOdev5 --> Main.class
