@@ -12,3 +12,5 @@ IleriProgramlamaOdev5'in 3. soru harici cevapları için --> out --> production 
 Soru 3 için --> src -->  HotelReservation.class
 
 IleriProgramlamaOdev6 --> out --> production --> IleriProgramlamaOdev6 --> Hangman.class
+
+IleriProgramlamaOdev7 dosyası içerisinde bulunan dosyada ilgili kodlar bulunmaktadır. İlgili TODO sorularına gerekli metotlar yazılıp, gerektiğinde yeni class ve interface'ler oluşturulmuş ve bu da yorum satırı içerisinde belirtilmiştir.
